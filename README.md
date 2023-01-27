@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a computer science student in France</h3>
 
-- 🔭 I’m currently working on [Concerto](https://github.com/ArthurVasseur/Concerto)
+- 🔭 I’m currently working on [Concerto](https://github.com/ArthurVasseur/Concerto) and [ConcertoGraphics](https://github.com/ArthurVasseur/ConcertoGraphics)
 
 - 🌱 I’m currently learning **Vulkan**
 

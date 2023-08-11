@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Vulkan**
 
-- 👨‍💻 All of my projects are available at [arthurvasseur.fr](https://arthurvasseur.fr)
+- 👨‍💻 All of my projects are available at [arthurvasseur.fr](http://arthurvasseur.fr)
 
 
 
